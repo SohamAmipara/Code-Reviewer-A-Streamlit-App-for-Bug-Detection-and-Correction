@@ -14,6 +14,11 @@
 2. Click on the "Generate" button to initiate bug detection and correction.
 3. Receive corrected code suggestions instantly.
 
+## Demo
+![Interface](main_interface.png)
+![Output 1](output1.png)
+![Output 2](output2.png)
+
 ## Installation
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
